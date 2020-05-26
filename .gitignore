@@ -1,3 +1,5 @@
 datasets/mnist_test.csv
 datasets/mnist_train.csv
+datasets/.DS_Store
+.DS_Store
 .vscode/settings.json
